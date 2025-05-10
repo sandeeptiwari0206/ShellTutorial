@@ -1,0 +1,5 @@
+#Check Shell
+echo $0
+
+#Check Suppurted
+cat /etc/shells
